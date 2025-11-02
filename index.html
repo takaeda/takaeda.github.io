@@ -3,10 +3,189 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Site</title>
+    <title>Takaeda - Personal Website</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 600px;
+            width: 100%;
+            padding: 50px 40px;
+            text-align: center;
+        }
+
+        .profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0 auto 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 60px;
+            color: white;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            color: #2d3748;
+        }
+
+        .tagline {
+            font-size: 1.2em;
+            color: #718096;
+            margin-bottom: 30px;
+        }
+
+        .section {
+            margin: 30px 0;
+            text-align: left;
+        }
+
+        .section h2 {
+            font-size: 1.5em;
+            color: #2d3748;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+
+        .section p {
+            color: #4a5568;
+            margin-bottom: 15px;
+        }
+
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .skill-tag {
+            background: #edf2f7;
+            color: #4a5568;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .social-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 12px 24px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+
+        .social-link:hover {
+            background: #764ba2;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 30px 20px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            .social-links {
+                flex-direction: column;
+            }
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome</h1>
-    <p>This is my personal site.</p>
+    <div class="container">
+        <!-- Profile Image Placeholder -->
+        <div class="profile-image">
+            👤
+        </div>
+
+        <!-- Name and Tagline -->
+        <h1>Takaeda</h1>
+        <p class="tagline">Data Science | Software Analytics</p>
+
+        <!-- About Me Section -->
+        <div class="section">
+            <h2>About Me</h2>
+            <p>
+                Hello! I'm a data scientist specializing in software analytics. I'm passionate about extracting 
+                meaningful insights from complex data and applying analytical techniques to understand software 
+                development processes and improve engineering practices.
+            </p>
+            <p>
+                My work involves analyzing software repositories, mining development data, and building 
+                data-driven solutions that help teams make better decisions. I enjoy combining statistical 
+                methods with software engineering knowledge to solve challenging problems.
+            </p>
+        </div>
+
+        <!-- Skills Section -->
+        <div class="section">
+            <h2>Tech Stack</h2>
+            <div class="skills">
+                <span class="skill-tag">Data Visualization</span>
+                <span class="skill-tag">Statistical Analysis</span>
+            </div>
+        </div>
+
+        <!-- Social Links -->
+        <div class="social-links">
+            <a href="https://github.com/takaeda" class="social-link" target="_blank">
+                GitHub
+            </a>
+            <a href="https://x.com/takaeda" class="social-link" target="_blank">
+                X
+            </a>
+            <a href="https://www.linkedin.com/in/takaeda/" class="social-link" target="_blank">
+                LinkedIn
+            </a>
+            <a href="https://www.facebook.com/takaeda" class="social-link" target="_blank">
+                Facebook
+            </a>
+            <a href="https://www.instagram.com/takaeda" class="social-link" target="_blank">
+                Instagram
+            </a>
+        </div>
+    </div>
 </body>
 </html>
