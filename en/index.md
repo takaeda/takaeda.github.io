@@ -10,7 +10,7 @@ Working with manufacturing data to develop predictive maintenance and stability 
 
 > Let AI organize the chaos; humans courageously add dimensions.
 
-[English](#) | [日本語](/)
+- [日本語版はこちら](/)
 
 ---
 
@@ -35,7 +35,7 @@ September 2023 - Present
 - Teaching "Practical High-Dimensional Data Analysis"
 - Integrated education from theory to implementation with practical case studies
 
-**TOOR INC.** / Founder & Chief Research Officer  
+**toor Inc.** / Founder & Chief Research Officer  
 January 2012 - Present
 - Research and development of high-dimensional time series analysis technology (toorPIA)
 - Proof-of-concept studies for manufacturing data infrastructure and predictive maintenance systems
@@ -139,7 +139,7 @@ Large-scale data processing in the International Human Genome Project, structure
 ### 2006-2012: IP Management Systems (Venture Company)
 Solving the complexity of intellectual property management through data infrastructure. Integration of technology and business.
 
-### 2012-Present: Manufacturing Predictive Maintenance (TOOR)
+### 2012-Present: Manufacturing Predictive Maintenance (toor)
 Consolidating 30 years of experience to develop technology that keeps manufacturing sites running. Dual approach using both process parameters and acoustic signals.
 
 ---
