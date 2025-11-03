@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
 
 # サイト情報
-title: Yoshio Takaeda
-description: Forward Deploy Engineer / Data Architect
+title: Yoshio Takaeda | Portfolio
+description: Forward Deploy Engineer / Data Architect / Researcher / Lecturer
 lang: ja
 
 # SEO
@@ -14,6 +14,9 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
 
 # 除外ファイル
 exclude:

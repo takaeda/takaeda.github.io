@@ -10,6 +10,8 @@ lang: ja
 
 > 混沌の整理はAIに任せ、人間は勇気をもって次元を追加する。
 
+[English](/en/) | 日本語
+
 ---
 
 ## 概要
@@ -62,7 +64,7 @@ lang: ja
 
 ### コアスキル
 
-**30年にわたる製造業データエンジニアリング**  
+**30年超にわたるデータエンジニアリング**  
 化学プラント設計からゲノム解析、高分子材料DB、製造装置の予兆検知まで、データ駆動型の問題解決を一貫して追求
 
 **高次元時系列解析**  
@@ -103,7 +105,7 @@ POC段階ではSQLite3で迅速な検証、本番ではPostgreSQL/TimescaleDBで
 **技術スタック**  
 Python API（信号処理・解析）、BFF (Node.js + React/Next.js)、PostgreSQL + TimescaleDB、Docker/Kubernetes
 
-[→ GitHub](https://github.com/toorpia/toorpia)
+[→ GitHub: toorpia/toorpia](https://github.com/toorpia/toorpia)
 
 ### 🔊 音響ベース予兆検知システム
 回転機器等の製造装置から音データを取得し、異常兆候を検出する研究プロジェクト。
@@ -122,11 +124,11 @@ Python API（信号処理・解析）、BFF (Node.js + React/Next.js)、PostgreS
 ### 🪶 Local LLM Analysis
 ローカル大規模言語モデルの内部表現を解析し、命題間の距離・バイアス構造を可視化する実験的研究プロジェクト。
 
-[→ GitHub](https://github.com/toorpia-labs/local-llm-analysis)
+[→ GitHub: toorpia-labs/local-llm-analysis](https://github.com/toorpia-labs/local-llm-analysis)
 
 ---
 
-## 研究の系譜
+## 研究の歩み（Chronology）
 
 ### 1995-1998：化学プラント（東燃化学）
 PP/PEポリマー製造プラントでのプロセス設計・データ解析。製造業データエンジニアリングのルーツ。
@@ -197,7 +199,7 @@ US Patent Application 20170213249
 反対意見を組み込み、リスクを早期顕在化。30年の失敗と成功から学んだ姿勢。
 
 **学びの循環**  
-技術を現場に戻し、現場から再び学び取る。教育と実務を相互に強化。
+技術を現場に戻し、現場から再び学び取る。教育と実務を相互に強化。教育・実務・研究の三位一体循環を重視している。
 
 ---
 
