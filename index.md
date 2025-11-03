@@ -130,17 +130,17 @@ Python API（信号処理・解析）、BFF (Node.js + React/Next.js)、PostgreS
 
 ## 研究の歩み（Chronology）
 
-### 1995-1998：化学プラント（東燃化学）
-PP/PEポリマー製造プラントでのプロセス設計・データ解析。製造業データエンジニアリングのルーツ。
-
-### 1998-2006：ゲノム・材料DB（三菱総研）
-国際ヒトゲノムプロジェクトでの大規模データ処理、高分子材料データベースでの構造化データ設計。
-
-### 2006-2012：知財システム（ベンチャー）
-知財管理の複雑性をデータ基盤で解決。技術とビジネスの統合。
-
 ### 2012-現在：製造業予兆検知（toor）
 30年の経験を結集し、製造現場の「止まらない」を実現する技術開発。プロセスパラメータと音響信号の両面からアプローチ。
+
+### 2006-2012：知財システム(ベンチャー)
+知財管理の複雑性をデータ基盤で解決。技術とビジネスの統合。
+
+### 1998-2006：ゲノム・材料DB(三菱総研)
+国際ヒトゲノムプロジェクトでの大規模データ処理、高分子材料データベースでの構造化データ設計。
+
+### 1995-1998：化学プラント(東燃化学)
+PP/PEポリマー製造プラントでのプロセス設計・データ解析。製造業データエンジニアリングのルーツ。
 
 ---
 
@@ -174,16 +174,16 @@ US Patent Application 20170213249
 
 ### 学術論文
 
-**高分子溶液の光散乱・核磁気緩和研究（1993-1997）**
+**ゲノム解析**
+- DIGIT: a novel gene finding program by combining gene-finders. T. Yada, T. Takagi, Y. Totoki, Y. Sakaki, Y. Takaeda. *Pacific Symposium on Biocomputing*, 2003
+
+**高分子溶液の光散乱・核磁気緩和研究(1993-1997)**
+- Dynamic depolarized light scattering and nuclear magnetic relaxation studies of isotactic oligo- and poly(methyl methacrylate)s in dilute solution. *Macromolecules*, 1997, 30(9), 2751-2758
 - Dynamic depolarized light scattering and nuclear magnetic relaxation studies of oligo- and poly(methyl methacrylate)s in dilute solution. *Macromolecules*, 1995, 28(3), 682-693
 - Mean-square optical anisotropy of isotactic oligo- and poly(methyl methacrylate)s in dilute solution. *Macromolecules*, 1995, 28(12), 4167-4172
 - Dynamic depolarized light scattering and nuclear magnetic relaxation studies of oligo- and polystyrenes in dilute solutions. *Macromolecules*, 1994, 27(15), 4248-4258
-- Mean-square optical anisotropy of oligo- and poly(methyl methacrylate)s in dilute solutions. *Macromolecules*, 1993, 26(15), 3742-3749
 - On the correlation between the negative intrinsic viscosity and the rotatory relaxation time of solvent molecules in dilute polymer solutions. *Macromolecules*, 1993, 26(25), 6891-6896
-- Dynamic depolarized light scattering and nuclear magnetic relaxation studies of isotactic oligo- and poly(methyl methacrylate)s in dilute solution. *Macromolecules*, 1997, 30(9), 2751-2758
-
-**ゲノム解析**
-- DIGIT: a novel gene finding program by combining gene-finders. T. Yada, T. Takagi, Y. Totoki, Y. Sakaki, Y. Takaeda. *Pacific Symposium on Biocomputing*, 2003
+- Mean-square optical anisotropy of oligo- and poly(methyl methacrylate)s in dilute solutions. *Macromolecules*, 1993, 26(15), 3742-3749
 
 ---
 
