@@ -1,0 +1,22 @@
+theme: jekyll-theme-slate
+
+# サイト情報
+title: Yoshio Takaeda
+description: Forward Deploy Engineer / Data Architect
+lang: ja
+
+# SEO
+author: Yoshio Takaeda
+url: https://takaeda.is-a.dev
+
+# Markdown設定
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# 除外ファイル
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
