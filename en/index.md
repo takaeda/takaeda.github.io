@@ -201,6 +201,9 @@ Incorporating opposing viewpoints to surface risks early. An attitude learned fr
 **Learning Cycle**  
 Taking technology back to the field and learning from the field again. Mutually reinforcing education, practice, and research—emphasizing the trinity of these three elements.
 
+**Public Individual Statement**
+I believe that individual engineers should not be consumed by corporate structures, but instead deliver their value directly to the fields that truly need them.
+
 ---
 
 ## Contact
