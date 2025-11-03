@@ -130,17 +130,17 @@ Experimental research project analyzing internal representations of local large 
 
 ## Research Chronology
 
-### 1995-1998: Chemical Plants (TonenGeneral)
-Process design and data analysis for PP/PE polymer manufacturing plants. The foundation of manufacturing data engineering.
-
-### 1998-2006: Genomics & Materials DB (Mitsubishi Research Institute)
-Large-scale data processing in the International Human Genome Project, structured data design for polymer materials database.
+### 2012-Present: Manufacturing Predictive Maintenance (toor)
+Consolidating 30 years of experience to develop technology that keeps manufacturing sites running. Dual approach using both process parameters and acoustic signals.
 
 ### 2006-2012: IP Management Systems (Venture Company)
 Solving the complexity of intellectual property management through data infrastructure. Integration of technology and business.
 
-### 2012-Present: Manufacturing Predictive Maintenance (toor)
-Consolidating 30 years of experience to develop technology that keeps manufacturing sites running. Dual approach using both process parameters and acoustic signals.
+### 1998-2006: Genomics & Materials DB (Mitsubishi Research Institute)
+Large-scale data processing in the International Human Genome Project, structured data design for polymer materials database.
+
+### 1995-1998: Chemical Plants (TonenGeneral)
+Process design and data analysis for PP/PE polymer manufacturing plants. The foundation of manufacturing data engineering.
 
 ---
 
@@ -174,16 +174,16 @@ Advertisement display clarifying relevance in search services
 
 ### Academic Publications
 
+**Genome Analysis**
+- DIGIT: a novel gene finding program by combining gene-finders. T. Yada, T. Takagi, Y. Totoki, Y. Sakaki, Y. Takaeda. *Pacific Symposium on Biocomputing*, 2003
+
 **Polymer Solution Light Scattering & Nuclear Magnetic Relaxation Studies (1993-1997)**
+- Dynamic depolarized light scattering and nuclear magnetic relaxation studies of isotactic oligo- and poly(methyl methacrylate)s in dilute solution. *Macromolecules*, 1997, 30(9), 2751-2758
 - Dynamic depolarized light scattering and nuclear magnetic relaxation studies of oligo- and poly(methyl methacrylate)s in dilute solution. *Macromolecules*, 1995, 28(3), 682-693
 - Mean-square optical anisotropy of isotactic oligo- and poly(methyl methacrylate)s in dilute solution. *Macromolecules*, 1995, 28(12), 4167-4172
 - Dynamic depolarized light scattering and nuclear magnetic relaxation studies of oligo- and polystyrenes in dilute solutions. *Macromolecules*, 1994, 27(15), 4248-4258
-- Mean-square optical anisotropy of oligo- and poly(methyl methacrylate)s in dilute solutions. *Macromolecules*, 1993, 26(15), 3742-3749
 - On the correlation between the negative intrinsic viscosity and the rotatory relaxation time of solvent molecules in dilute polymer solutions. *Macromolecules*, 1993, 26(25), 6891-6896
-- Dynamic depolarized light scattering and nuclear magnetic relaxation studies of isotactic oligo- and poly(methyl methacrylate)s in dilute solution. *Macromolecules*, 1997, 30(9), 2751-2758
-
-**Genome Analysis**
-- DIGIT: a novel gene finding program by combining gene-finders. T. Yada, T. Takagi, Y. Totoki, Y. Sakaki, Y. Takaeda. *Pacific Symposium on Biocomputing*, 2003
+- Mean-square optical anisotropy of oligo- and poly(methyl methacrylate)s in dilute solutions. *Macromolecules*, 1993, 26(15), 3742-3749
 
 ---
 
