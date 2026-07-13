@@ -218,4 +218,4 @@ I believe that individual engineers should not be consumed by corporate structur
 
 ---
 
-<small>© 2025 Yoshio Takaeda | Personal Research Portfolio</small>
+<small>© 2026 Yoshio Takaeda | Personal Research Portfolio</small>

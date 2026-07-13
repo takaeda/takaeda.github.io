@@ -218,4 +218,4 @@ US Patent Application 20170213249
 
 ---
 
-<small>© 2025 Yoshio Takaeda | Personal Research Portfolio</small>
+<small>© 2026 Yoshio Takaeda | Personal Research Portfolio</small>
