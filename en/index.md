@@ -209,6 +209,8 @@ I believe that individual engineers should not be consumed by corporate structur
 ## Contact
 
 **GitHub**: [github.com/takaeda](https://github.com/takaeda)  
+**ORCID**: [0009-0005-4968-9456](https://orcid.org/0009-0005-4968-9456)  
+**arXiv**: takaeda (cs.LG)  
 **Email**: [takaeda@gmail.com](mailto:takaeda@gmail.com)  
 **Location**: Japan
 

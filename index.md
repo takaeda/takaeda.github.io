@@ -209,6 +209,8 @@ US Patent Application 20170213249
 ## 連絡先
 
 **GitHub**: [github.com/takaeda](https://github.com/takaeda)  
+**ORCID**: [0009-0005-4968-9456](https://orcid.org/0009-0005-4968-9456)  
+**arXiv**: takaeda（cs.LG）  
 **Email**: [takaeda@gmail.com](mailto:takaeda@gmail.com)  
 **所在**: 日本
 
