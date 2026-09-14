@@ -174,6 +174,10 @@ Advertisement display clarifying relevance in search services
 
 ### Academic Publications
 
+**Dimensionality Reduction & Data Analysis (2026)**
+- A Fixed-Radius Distance-Band Benchmark for Dimensionality-Reduction Fidelity. Y. Takaeda. *arXiv preprint* [arXiv:2608.21779](https://arxiv.org/abs/2608.21779) (cs.LG), 2026  
+  Argues that variable-radius neighbor-based scores (recall@k, trustworthiness, continuity) are a biased measure of distance fidelity, and proposes a fixed-radius distance-band Shepard correlation instead. Benchmarks eight methods (PCA, Isomap, t-SNE, UMAP, PyMDE, PCC, DREAMS, toorPIA) on synthetic datasets with known ground-truth geometry. Code and data: [dr-fidelity-benchmark](https://github.com/toorpia/dr-fidelity-benchmark) ([DOI: 10.5281/zenodo.21189374](https://doi.org/10.5281/zenodo.21189374))
+
 **Genome Analysis**
 - DIGIT: a novel gene finding program by combining gene-finders. T. Yada, T. Takagi, Y. Totoki, Y. Sakaki, Y. Takaeda. *Pacific Symposium on Biocomputing*, 2003
 
@@ -210,7 +214,7 @@ I believe that individual engineers should not be consumed by corporate structur
 
 **GitHub**: [github.com/takaeda](https://github.com/takaeda)  
 **ORCID**: [0009-0005-4968-9456](https://orcid.org/0009-0005-4968-9456)  
-**arXiv**: takaeda (cs.LG)  
+**arXiv**: [arXiv:2608.21779](https://arxiv.org/abs/2608.21779) (cs.LG)  
 **Email**: [takaeda@gmail.com](mailto:takaeda@gmail.com)  
 **Location**: Japan
 
